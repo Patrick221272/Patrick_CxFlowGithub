@@ -42,7 +42,8 @@ function decQuantity (prodid) {
 		for (Cookie cookie : cookies) {
 			if (cookie.getName().equals("b_id") && cookie.getValue().length() > 0) {
 				basketId = cookie.getValue();
-				break;
+
+								break;
 			}
 		}
 	}
