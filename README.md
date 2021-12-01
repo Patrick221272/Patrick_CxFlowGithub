@@ -1,7 +1,7 @@
 
 
 
-> ### Please note that The BodgeIt Store is no longer being worked on
+> ### Please note that The BodgeIt Store is no longer being worked on vvv
 > #### You are strongly recommended to use [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) instead!
 
 Note that the BodgeIt Store is now available as a Docker image: https://hub.docker.com/r/psiinon/bodgeit/ 
